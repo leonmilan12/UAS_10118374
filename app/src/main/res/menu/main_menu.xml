@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_tentang"
+        android:title="@string/tentang"
+        android:icon="@drawable/about_selector"/>
+
+    <item
+        android:id="@+id/menu_lokasi"
+        android:title="@string/lokasi"
+        android:icon="@drawable/tempat_selector"/>
+
+    <item
+        android:id="@+id/menu_profile"
+        android:title="@string/profil"
+        android:icon="@drawable/profile_selector"/>
+
+</menu>

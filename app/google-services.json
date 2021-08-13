@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "529910682663",
+    "project_id": "tempat-wisata-10118374",
+    "storage_bucket": "tempat-wisata-10118374.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529910682663:android:3383ba97d6fbac4446aa02",
+        "android_client_info": {
+          "package_name": "com.example.tempatwisata10118374"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529910682663-7m19qevqu0enfklodg74j6dvt6hoal7t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_MLtYuwMG07_0Yh_faxm3QOtmEurpJ-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529910682663-7m19qevqu0enfklodg74j6dvt6hoal7t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
